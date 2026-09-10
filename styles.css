@@ -129,7 +129,7 @@ header {
 .hero_section {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/hero_section_background_img.png");
+    url("assets/images/hero_section_background_img.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
